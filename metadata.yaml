@@ -1,0 +1,44 @@
+_repo: At-Fault_23810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chopin, Kate
+    aliases:
+    - Chopin, Katherine O'Flaherty
+    - O'Flaherty, Catherine
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '100'
+    url: http://www.gutenberg.org/2009/agents/100
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Chopin
+description: '"...At Fault masterfully portrays a complex love triangle amid the tensions
+  of the rural post-Reconstruction South. Thérèse Lafirme is a young Creole widow
+  in love with a divorced St. Louis businessman, David Hosmer. The moral and religious
+  constraints thrust upon Thérèse prevent her acceptance of Hosmer''s wedding proposal,
+  setting the two on a treacherous path that involves Hosmer''s former wife, Fanny."
+  -- back cover.'
+gutenberg_issued: '2007-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cane River Region (La.) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Women plantation owners -- Fiction'
+- !lcsh 'Divorced men -- Fiction'
+- !lcsh 'Louisiana -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Creoles -- Fiction'
+- !lcsh 'Psychological fiction'
+title: At Fault
+url: http://www.gutenberg.org/ebooks/23810
